@@ -1,0 +1,59 @@
+h1 {
+	background-color: cyan;
+	text-align: center;
+    padding: 10px;
+}
+label {
+	margin-top: 10px;
+	font-weight: bold;
+	font-size: 20px;
+}
+.background {
+    background-color: cyan;
+}
+.search{ 
+    background-color: red;
+}
+.card {
+	margin: 10px;
+    padding: 10px
+}
+.colOne {
+	background-color: lightgrey;
+}
+.colTwo {
+	background-color: grey;
+}
+.histBtnRow {
+	margin-top: 5px;
+	margin-bottom: 5px;
+    
+}
+
+.btn { 
+    font-weight: bold;
+    color: black;
+}
+.green{
+  background-color: lightgreen;
+}
+.yellow{
+  background-color: yellow;
+}
+.orange{
+  background-color: orange;
+}
+.red{
+  background-color: red;
+}
+.purple{
+  background-color: purple;
+}
+
+.icons {
+	height: 70px;
+	width: 70px;
+}
+.cardTodayDate {
+	font-size: 20px;
+}
