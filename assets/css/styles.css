@@ -12,7 +12,11 @@ label {
     background-color: cyan;
 }
 .search{ 
-    background-color: red;
+    background-color: rgb(0, 0, 0);
+}
+.history {
+    border-top: 2px solid;
+    margin-top: 5px;
 }
 .card {
 	margin: 10px;
