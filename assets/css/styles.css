@@ -9,7 +9,7 @@ label {
 	font-size: 20px;
 }
 .background {
-    background-color: cyan;
+    background-color: grey;
 }
 .search{ 
     background-color: rgb(0, 0, 0);
@@ -17,6 +17,7 @@ label {
 .history {
     border-top: 2px solid;
     margin-top: 5px;
+    
 }
 .card {
 	margin: 10px;
